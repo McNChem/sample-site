@@ -615,7 +615,7 @@ figure.effect-bubba:hover p {
     left: 0;
     top: 0;
     background-color: rgba(0, 0, 0, 0.5);
-    color: white;
+    color: #01FF70;
     padding: 10px 15px;
     transition: all 0.3s ease;
     border-radius: 0;
