@@ -33,7 +33,7 @@ a {
 }
 
 .tm-color-primary {
-  color: #069;
+  color: darkslategrey;
 }
 
 .tm-color-gray {
@@ -45,7 +45,7 @@ a {
 }
 
 .tm-bg-white-transparent {
-  background-color: rgba(255, 255, 255, 0.3);
+  background-color: rgba(255, 255, 255, 0.4);
   border: 1px solid white;
 }
 
@@ -210,7 +210,7 @@ a {
 .tm-social-link {
   width: 40px;
   height: 40px;
-  color: black;
+  color: #4caf50;
   background-color: white;
   margin: 8px;
   border-radius: 5px;
@@ -222,7 +222,7 @@ a {
 
 .tm-social-link:hover,
 .tm-social-link:focus {
-  background-color: #069;
+  background-color: #4caf50;
   color: white;
 }
 
@@ -231,7 +231,7 @@ a {
 }
 
 .tm-footer-link:hover {
-  color: #F93;
+  color: goldenrod;
   text-decoration: none;
 }
 
@@ -240,7 +240,7 @@ a {
 }
 
 .tm-section-icon {
-  color: #369;
+  color: #4caf50;
   width: 120px;
   height: 120px;
   display: flex;
@@ -316,7 +316,7 @@ a {
   float: left;
   overflow: hidden;
   margin-bottom: 0;
-  background: #3085a3;
+  background: #4caf50;
   text-align: center;
   cursor: pointer;
 }
@@ -389,7 +389,7 @@ a {
 /*---------------*/
 
 figure.effect-bubba {
-  background: #069;
+  background: #79e97c;
 }
 
 figure.effect-bubba img {
